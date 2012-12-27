@@ -1,9 +1,0 @@
-service_id,date,exception_type
-s_merged_998658,20121008,1
-s_merged_998658,20120903,1
-muw,20121008,2
-muw,20120903,2
-muwtf_merged_998659,20121008,2
-muwtf_merged_998659,20120903,2
-tf,20121008,2
-tf,20120903,2
